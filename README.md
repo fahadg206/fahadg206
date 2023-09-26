@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi, I'm Fahad Guled, a passionate software engineer who thrives on the excitement of solving complex problems and creating high-quality software. With a deep love for continuous learning and a fascination for technology, I'm always eager to explore new horizons in the world of programming.
+Hi, I'm Fahad Guled, a passionate software engineer based in Seattle who thrives on the excitement of solving complex problems and creating high-quality software. With a deep love for continuous learning and a fascination for technology, I'm always eager to explore new horizons in the world of programming.
 
 In addition to my love for coding, I'm a sports enthusiast who enjoys the dynamic and ever-evolving nature of the sports world. Whether it's developing innovative software solutions or keeping up with the latest game stats, my curiosity and dedication drive me to excel in both my professional and personal pursuits.
 
