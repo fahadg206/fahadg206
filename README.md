@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me 👋
+
+Hi, I'm Fahad Guled, a passionate software engineer who thrives on the excitement of solving complex problems and creating high-quality software. With a deep love for continuous learning and a fascination for technology, I'm always eager to explore new horizons in the world of programming.
+
+In addition to my love for coding, I'm a sports enthusiast who enjoys the dynamic and ever-evolving nature of the sports world. Whether it's developing innovative software solutions or keeping up with the latest game stats, my curiosity and dedication drive me to excel in both my professional and personal pursuits.
+
+I've gained valuable real-world experience by actively addressing user-submitted bugs and employing Agile practices to optimize user engagement in one of my projects. Beyond that, I've successfully managed accounting data and led the creation of a dynamic sports-tech application. Feel free to explore my repositories to see some of my coding adventures, and don't hesitate to connect if you share a passion for technology or sports!
+
 
 ## Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,mongodb,firebase,git,html,css,tailwind,postgres,mysql,redux,vercel,netlify,heroku,vscode,babel,docker)](https://skillicons.dev)
