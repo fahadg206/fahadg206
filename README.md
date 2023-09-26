@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,mongodb,firebase,git,html,css,tailwind,postgres,redux,vercel,netlify,heroku,vscode,babel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nextjs,react,mongodb,firebase,git,html,css,tailwind,postgres,mysql,redux,vercel,netlify,heroku,vscode,babel,docker)](https://skillicons.dev)
 
 <!--
 **fahadg206/fahadg206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
